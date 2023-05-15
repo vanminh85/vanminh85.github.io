@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "https://vanminh85.github.io/static/css/main.2f98e35a.chunk.css",
+    "main.js": "https://vanminh85.github.io/static/js/main.73b9597a.chunk.js",
+    "main.js.map": "https://vanminh85.github.io/static/js/main.73b9597a.chunk.js.map",
+    "runtime-main.js": "https://vanminh85.github.io/static/js/runtime-main.a70ff3ff.js",
+    "runtime-main.js.map": "https://vanminh85.github.io/static/js/runtime-main.a70ff3ff.js.map",
+    "static/js/2.88f6e73d.chunk.js": "https://vanminh85.github.io/static/js/2.88f6e73d.chunk.js",
+    "static/js/2.88f6e73d.chunk.js.map": "https://vanminh85.github.io/static/js/2.88f6e73d.chunk.js.map",
+    "index.html": "https://vanminh85.github.io/index.html",
+    "service-worker.js": "https://vanminh85.github.io/service-worker.js",
+    "service-worker.js.map": "https://vanminh85.github.io/service-worker.js.map",
+    "static/css/main.2f98e35a.chunk.css.map": "https://vanminh85.github.io/static/css/main.2f98e35a.chunk.css.map",
+    "static/js/2.88f6e73d.chunk.js.LICENSE.txt": "https://vanminh85.github.io/static/js/2.88f6e73d.chunk.js.LICENSE.txt",
+    "static/media/Select.css": "https://vanminh85.github.io/static/media/filter3x.f1c74755.svg",
+    "static/media/bike-light-1200x1500.jpg": "https://vanminh85.github.io/static/media/bike-light-1200x1500.37c843b0.jpg",
+    "static/media/bolt-shirt-1200x1500.jpg": "https://vanminh85.github.io/static/media/bolt-shirt-1200x1500.c2599ac5.jpg",
+    "static/media/CartButton.css": "https://vanminh85.github.io/static/media/cart3x.2e632c7a.svg",
+    "static/media/close@3x.3b01aaac.svg": "https://vanminh85.github.io/static/media/close@3x.3b01aaac.svg",
+    "static/media/menu3x.e9de0afe.svg": "https://vanminh85.github.io/static/media/menu3x.e9de0afe.svg",
+    "static/media/pony-express.png": "https://vanminh85.github.io/static/media/pony-express.46394a5d.png",
+    "static/media/red-onesie-1200x1500.jpg": "https://vanminh85.github.io/static/media/red-onesie-1200x1500.2ec615b2.jpg",
+    "static/media/red-tatt-1200x1500.jpg": "https://vanminh85.github.io/static/media/red-tatt-1200x1500.30dadef4.jpg",
+    "static/media/sauce-backpack-1200x1500.jpg": "https://vanminh85.github.io/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg",
+    "static/media/sauce-pullover-1200x1500.jpg": "https://vanminh85.github.io/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg",
+    "static/media/sl-404.jpg": "https://vanminh85.github.io/static/media/sl-404.168b1cce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a70ff3ff.js",
+    "static/js/2.88f6e73d.chunk.js",
+    "static/css/main.2f98e35a.chunk.css",
+    "static/js/main.73b9597a.chunk.js"
+  ]
+}
